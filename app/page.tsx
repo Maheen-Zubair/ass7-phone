@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./component/header";
 import Section1 from "./sec1-phone/page"
 import Section2 from "./sec2/page";
